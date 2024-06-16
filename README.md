@@ -15,6 +15,7 @@ git clone https://github.com/ranforyourlife/ranforyourlife.github.io
 </html>
 
 cd ranforyourlife.github.io
+
 git add .
 git commit -m "Initial commit"
 git push origin main
